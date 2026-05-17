@@ -1,0 +1,14 @@
+We are looking for a Python Developer.
+
+Required Skills:
+Python
+SQL
+Django
+Git
+REST API
+Machine Learning
+Problem Solving
+Communication
+
+Experience:
+2 years preferred

@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.idea/
+.vscode/
+data/extracted_text/
+data/cleaned_resumes/
+data/extracted_skills/
